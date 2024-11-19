@@ -39,7 +39,7 @@ ctrl + shift + i
 
 ```console
 > git clone https://github.com/UzushikaMinecraft/launcher.git
-> cd UzushikaLauncher
+> cd launcher
 > npm install
 ```
 

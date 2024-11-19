@@ -17,8 +17,8 @@ if (!fs.existsSync(basePath)) {
 builder.build({
     targets: (process.argv[2] != null && Platform[process.argv[2]] != null ? Platform[process.argv[2]] : getCurrentPlatform()).createTarget(),
     config: {
-        appId: 'uzsklauncher',
-        productName: 'UZSK Launcher',
+        appId: 'uzushikalauncher',
+        productName: 'UzushikaLauncher',
         artifactName: '${productName}-setup-${version}.${ext}',
         copyright: 'Copyright © 2024 iamtakagi',
         directories: {

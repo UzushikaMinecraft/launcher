@@ -4,7 +4,7 @@
 
 <em><h5 align="center">(formerly Electron Launcher)</h5></em>
 
-[<p align="center"><img src="https://img.shields.io/github/downloads/dscalzi/HeliosLauncher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/UzushikaMinecraft/launcher/releases)</p>
+[<p align="center"><img src="https://img.shields.io/github/downloads/UzushikaMinecraft/launcher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/UzushikaMinecraft/launcher/releases)</p>
 
 | Platform | File |
 | -------- | ---- |
